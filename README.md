@@ -63,7 +63,7 @@ npm start
 or
 
 sh
-Copy code
+Copy cod
 yarn start
 The application will be available at http://localhost:3000.
 
